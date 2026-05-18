@@ -1,0 +1,26 @@
+# Data
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+category-encoders
+shap
+
+# Gradient Boosting
+xgboost
+lightgbm
+catboost
+
+# Utilities
+tqdm
+ipython
+
+# PyTorch — install separately for your hardware:
+# CPU:       pip install torch
+# CUDA 12.x: pip install torch --index-url https://download.pytorch.org/whl/cu121
+# See: https://pytorch.org/get-started/locally/
