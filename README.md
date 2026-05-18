@@ -1,6 +1,6 @@
 # Kaggle S5E12 — Diabetes Prediction
 
-Raw model collection for the [Kaggle Playground Series Season 5, Episode 12 — Diabetes Prediction](https://www.kaggle.com/competitions/playground-series-s5e12) competition.
+Sample of models for the [Kaggle Playground Series Season 5, Episode 12 — Diabetes Prediction](https://www.kaggle.com/competitions/playground-series-s5e12) competition.
 
 📦 **Dataset:** [playground-series-s5e12](https://www.kaggle.com/competitions/playground-series-s5e12/data)
 
